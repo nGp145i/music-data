@@ -1,0 +1,16 @@
+[
+  {
+    id 1,
+    title Chill Lo-fi,
+    artist Relax Beats,
+    genre Lo-fi,
+    url httpswww.soundhelix.comexamplesmp3SoundHelix-Song-1.mp3
+  },
+  {
+    id 2,
+    title Focus Time,
+    artist Study Music,
+    genre Ambient,
+    url httpswww.soundhelix.comexamplesmp3SoundHelix-Song-2.mp3
+  }
+]
